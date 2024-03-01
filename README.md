@@ -31,3 +31,6 @@ Before you get started, you'll need the following hardware and software:
 - Python 3
 - OpenCV library for Python
 
+###  Circuit Schematics
+![image](https://github.com/gyanraj06/lasersight-net-framework/assets/64907746/dc382be1-a6ca-4cf9-a929-9db4f8dbb59b)
+
