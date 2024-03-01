@@ -1,8 +1,6 @@
 # LaserSight - Laser-Guided Face Tracker
 
-LaserSight is an open-source project that combines laser guidance and computer vision to detect faces and track them using an Arduino and a camera. This system is designed for various applications, including robotics, surveillance, and interactive installations.
-
-![LaserSight Demo](demo.gif)
+LaserSight is a project that combines laser guidance and computer vision to detect faces and track them using an Arduino and a camera. This system is designed for various applications, including robotics and surveillance.
 
 ## Features
 
@@ -29,9 +27,7 @@ Before you get started, you'll need the following hardware and software:
 ### Software
 
 - Arduino IDE
+- Visual Studio (.Net Framework)
 - Python 3
 - OpenCV library for Python
-- Required Python packages (install using `pip`):
-  ```bash
-  pip install opencv-python numpy
-  ```
+
